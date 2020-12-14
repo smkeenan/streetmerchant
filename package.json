@@ -14,7 +14,7 @@
     "test:notification:production": "node build/__test__/notification-test.js"
   },
   "engines": {
-    "node": "^14.14.12"
+    "node": "^14.15.0"
   },
   "repository": {
     "type": "git",
