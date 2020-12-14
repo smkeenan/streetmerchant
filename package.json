@@ -13,6 +13,9 @@
     "test:notification": "npm run build && node build/__test__/notification-test.js",
     "test:notification:production": "node build/__test__/notification-test.js"
   },
+  "engines": {
+    "node": "14.14.12"
+  }
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jef/streetmerchant.git"
